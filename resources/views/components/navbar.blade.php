@@ -1,5 +1,5 @@
-<nav class="border-b border-gray-300 sticky top-0 z-50 h-[11%]">
-    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+<nav class="border-b bg-[#369acb] border-gray-300 sticky top-0 z-50 h-[11%]">
+    <div class="max-w-screen-xl flex items-center justify-between mx-auto p-4">
         <div class="md:w-[20%] font-semibold text-xl text-white">
             Task Manager
         </div>

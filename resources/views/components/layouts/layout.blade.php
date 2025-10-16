@@ -1,5 +1,5 @@
 <x-layouts.app :title="$title">
-    <div class="h-[100vh] bg-[rgb(242,242,242)] bg-gradient-to-t from-[#f2f2f2] to-[#369acb]">
+    <div class="min-h-screen bg-[rgb(242,242,242)] bg-gradient-to-t from-[#f2f2f2] to-[#369acb]">
         <!-- Navbar -->
         <x-navbar :active="$active" />
 
