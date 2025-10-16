@@ -8,6 +8,9 @@ class TaskController extends Controller
 {
   public function index()
   {
-    return view('tasks.index', ["title" => "Tasks"]);
+    return view('tasks.index', [
+      "title" => "Tasks",
+      "active" => "tasks"
+    ]);
   }
 }
